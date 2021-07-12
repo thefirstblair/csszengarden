@@ -1,0 +1,95 @@
+p {
+  text-align: center;
+  color: black;
+  font-family: sans-serif;
+}
+
+.select {
+  text-align: center;
+  border-style: solid;
+  width: 340px;
+  height: 30px;
+}
+
+.archives {
+  text-align: center;
+  width: 340px;
+  height: 28px;
+  background-color: #c8e6c9;
+}
+
+.resources {
+  text-align: center;
+  width: 340px;
+  height: 40px;
+  background-color: #c8e6c9;
+}
+
+.intro {
+  color: white;
+  background-color: #b9f6ca;
+  height: 650px;
+}
+
+.participation {
+  background-color: #b9f6ca;
+}
+
+.requirements {
+  background-color: #b9f6ca;
+}
+
+.sidebar {
+  column-count: 3;
+  height: 250px;
+}
+
+.select {
+  height: 28px;
+}
+
+.design-selection {
+  width: 340px;
+  height: 190px;
+}
+
+.resources {
+  height: 30px;
+}
+
+h1 {
+  font-size: 36px;
+  text-align: center;
+  height: 200px;
+  color: black;
+  padding-top: 120px;
+  background-image: url(https://image.freepik.com/free-photo/abstract-blur-background-from-garden-design_7182-227.jpg);
+  background-size: 150%;
+}
+
+h2 {
+  font-size: 28px;
+  text-align: center;
+  color: black;
+}
+
+h3 {
+  font-size: 20px;
+  color: grey;
+  text-align: left;
+  background-color: #a5d6a7;
+  border: 3px solid black;
+}
+
+li {
+  background-color: #c8e6c9;
+  width: 300px;
+  height: 12px;
+  font-size: 12px;
+}
+
+body {
+  background-color: #fcfcfc;
+}
+
+/*# sourceMappingURL=style.css.map */
